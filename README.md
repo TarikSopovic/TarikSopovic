@@ -2,7 +2,7 @@
 
 ![IT Student](https://img.shields.io/badge/IT%20Student-7c3aed?style=for-the-badge)
 
-Final-year IT student at International Burch University. Passionate about solving practical problems and building a career in software engineering.
+Final-year IT student at International Burch University, focused on web development and databases.
 
 ---
 
@@ -15,14 +15,13 @@ Final-year IT student at International Burch University. Passionate about solvin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt="Git" />
 </p>
 
 ---
 
 ## 👨‍💻 My Story
 
-I am a final-year IT student at International Burch University with a strong foundation in software development, databases, and modern technologies. I enjoy solving practical problems, working in teams, and applying my knowledge to real-world challenges. My goal is to grow through professional experience and build a career in software engineering and IT solutions.
+I am a final-year IT student at International Burch University. I enjoy building websites and working with databases, and I like applying what I learn to real projects. I work well in teams and I am always looking to improve my skills and take on new challenges.
 
 ---
 
